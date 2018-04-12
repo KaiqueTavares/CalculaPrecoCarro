@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">TesteNac</string>
+    <string name="Header">Calculate the price</string>
+    <string name="HeaderRadio">Choose your Model</string>
+    <string name="GM" translatable="false">GM</string>
+    <string name="Ford" translatable="false">FORD</string>
+    <string name="Fiat" translatable="false">Fiat</string>
+    <string name="Modelo">Model</string>
+    <string name="Cavalos">Horse</string>
+    <string name="Valor">Price</string>
+    <string name="Enviar">Send</string>
+</resources>
